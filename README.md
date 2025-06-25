@@ -46,8 +46,8 @@ I'm passionate about **platform engineering**, **cost optimization**, and **AI/L
 
 ### 📫 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/satwick-cherukuri-1804b4b0/))
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)]([https://github.com/YOUR-USERNAME](https://github.com/satwick/satwick))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satwick-cherukuri-1804b4b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)]((https://github.com/satwick/satwick))
 📬 Email: `satwickcherukuri7@outlook.com`
 
 ---
