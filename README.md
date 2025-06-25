@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-I’m a Hyderabad-based **Senior DevOps Engineer with 8.7+ years** of experience in designing secure, scalable, and cloud-native infrastructure using:
+I’m a Hyderabad-based **Senior DevOps Engineer with 8+ years** of experience in designing secure, scalable, and cloud-native infrastructure using:
 
 - **Azure Kubernetes Service (AKS)** & GitOps
 - **Terraform / Bicep** for Infrastructure as Code
