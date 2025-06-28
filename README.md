@@ -35,7 +35,7 @@ I'm passionate about **platform engineering**, **cloud cost optimization**, and 
 ### 📂 Highlight Projects
 
 - 🔹 [AKS GitHub Actions CI/CD](https://github.com/YOUR-USERNAME/aks-gha-cicd) – End-to-end CI/CD to Azure Kubernetes
-- 🔹 [Terraform Azure Modules](https://github.com/YOUR-USERNAME/terraform-azure-modules) – Production-ready IaC modules
+- 🔹 [Terraform Azure Modules]([https://github.com/satwick/terraform-azure-modules] – Production-ready IaC modules
 - 🔹 [Secure Pipelines](https://github.com/YOUR-USERNAME/devsecops-pipeline-gha) – Security-focused GitHub Actions setup
 
 📎 Full portfolio: [satwick-devops-portfolio](https://github.com/YOUR-USERNAME/satwick-devops-portfolio)
