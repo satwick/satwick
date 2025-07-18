@@ -9,7 +9,7 @@
 I’m a Hyderabad-based **Senior DevOps Engineer with 8+ years** of experience in designing secure, scalable, and cloud-native infrastructure using:
 
 - **Azure Kubernetes Service (AKS)** & GitOps
-- **Terraform / Bicep** for Infrastructure as Code
+- **Terraform** for Infrastructure as Code
 - **GitHub Actions** for enterprise-grade CI/CD
 - **Monitoring & Security** with Prometheus, Grafana, Trivy, and Checkov
 
