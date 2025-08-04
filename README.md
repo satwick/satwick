@@ -36,7 +36,7 @@ I'm passionate about **platform engineering**, **cloud cost optimization**, and 
 
 - 🔹 [AKS GitHub Actions CI/CD](https://github.com/satwick/AKS-GitHub-Actions-CI-CD) – End-to-end CI/CD to Azure Kubernetes
 - 🔹 [Terraform Azure Modules](https://github.com/satwick/Terraform-Azure-Modules) – Production-ready IaC modules
-- 🔹 [Secure Pipelines](https://github.com/satwick/devsecops-pipeline-gha) – Security-focused GitHub Actions setup
+- 🔹 [Secure Pipelines](https://github.com/satwick/devsecops-pipeline-gha) – Under Construction
 
 📎 Full portfolio: [satwick-devops-portfolio](https://github.com/satwick)
 
@@ -44,8 +44,8 @@ I'm passionate about **platform engineering**, **cloud cost optimization**, and 
 
 ### 📝 Blog & Articles
 
-- 🛡️ [Secure GitHub Actions – Step-by-Step Guide](https://medium.com/@your-blog)
-- ⚙️ [Why GitOps Scales Better for Infra Teams](https://dev.to/your-blog)
+- 🛡️ [Secure GitHub Actions – Step-by-Step Guide](Under Construction)
+
 
 ---
 
